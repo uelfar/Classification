@@ -1,0 +1,28 @@
+G:\private work\classification\classification\bin\Debug\classification.exe
+G:\private work\classification\classification\bin\Debug\classification.pdb
+G:\private work\classification\classification\obj\x86\Debug\classification.csprojResolveAssemblyReference.cache
+G:\private work\classification\classification\obj\x86\Debug\classification.Form1.resources
+G:\private work\classification\classification\obj\x86\Debug\classification.Form2.resources
+G:\private work\classification\classification\obj\x86\Debug\classification.Properties.Resources.resources
+G:\private work\classification\classification\obj\x86\Debug\classification.csproj.GenerateResource.Cache
+G:\private work\classification\classification\obj\x86\Debug\classification.exe
+G:\private work\classification\classification\obj\x86\Debug\classification.pdb
+G:\private work\classification - test 2\classification\obj\x86\Debug\classification.exe
+G:\private work\classification - test 2\classification\obj\x86\Debug\classification.pdb
+G:\private work\classification - test 2\classification\bin\Debug\classification.exe
+G:\private work\classification - test 2\classification\bin\Debug\classification.pdb
+G:\private work\classification - test 2\classification\obj\x86\Debug\classification.csprojResolveAssemblyReference.cache
+G:\private work\classification - test 2\classification\obj\x86\Debug\classification.Form1.resources
+G:\private work\classification - test 2\classification\obj\x86\Debug\classification.Form2.resources
+G:\private work\classification - test 2\classification\obj\x86\Debug\classification.Properties.Resources.resources
+G:\private work\classification - test 2\classification\obj\x86\Debug\classification.csproj.GenerateResource.Cache
+C:\project\classification - test 2\classification\bin\Debug\classification.exe
+C:\project\classification - test 2\classification\bin\Debug\classification.pdb
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.csprojResolveAssemblyReference.cache
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.Form1.resources
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.Form2.resources
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.Properties.Resources.resources
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.csproj.GenerateResource.Cache
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.exe
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.pdb
+C:\project\classification - test 2\classification\obj\x86\Debug\classification.FrmResults.resources
